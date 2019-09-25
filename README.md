@@ -18,3 +18,8 @@ Keep in mind that you *have* to change:
 * partman-auto/disk (depending on your qemu setup; for VirtIO I get a /dev/vda
   disk)
 * partman-auto/expert\_recipe (for disk layout)
+
+
+## Demo
+
+[![asciicast](https://asciinema.org/a/254415.svg)](https://asciinema.org/a/254415)
